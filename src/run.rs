@@ -1,3 +1,7 @@
+pub fn run () -> Result<(), ()> {
+    Ok(())
+}
+
 #[cfg(test)]
 mod tests {
     #[test]
